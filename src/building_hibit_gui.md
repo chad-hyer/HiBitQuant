@@ -22,3 +22,6 @@ pip install -r hibit_requirements.txt
 pip install pyinstaller
 pyinstaller hibit_build.spec --clean --noconfirm
 ```
+
+## Note for using operating systems other than Windows
+You may need to tweak these commands or build files of you are compiling an executable in Mac or Linux. This repository was optimized for Windows machines.

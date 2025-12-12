@@ -1,6 +1,6 @@
 # HiBitQuant
 <p align="center">
-    <img src="https://github.com/chad-hyer/HiBitQuant/blob/cff8dff6f31388c03381d588144c448caf0aa5d7/src/icon.png", alt="HiBitQuant Logo", width="50", height="50">
+    <img src="https://github.com/chad-hyer/HiBitQuant/blob/cff8dff6f31388c03381d588144c448caf0aa5d7/src/icon.png", alt="HiBitQuant Logo", width="10", height="10">
     <br>
     <b>HiBitQuant</b>
 </p>
